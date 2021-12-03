@@ -8,7 +8,7 @@
 
 ##### Uddannelsessted: Roskilde Tekniske Skole
 
-[Link til (min applikaton)](http://nogether.netlify.com/)
+https://tombroager.github.io/Newsbox/
 
 
 ## Teknologier
